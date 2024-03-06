@@ -1,0 +1,12 @@
+#Ignore all .md and .txt files
+*.md
+*.txt
+*.ipynb
+```
+
+.venv
+
+```
+#Do not ignore readme.md
+!README.md
+```
